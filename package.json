@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "hoek": "1.x.x",
+    "boom": "2.x.x",
+    "joi": "2.x.x",
     "yar": "1.x.x",
     "crumb": "1.x.x",
     "scooter": "1.x.x",
