@@ -1,30 +1,30 @@
 {
   "name": "postmile-web",
   "description": "Collaborative list making server web controller",
-  "version": "1.0.1",
-  "author": "Eran Hammer <eran@hueniverse.com> (http://hueniverse.com)",
+  "version": "1.1.0",
+  "author": "Eran Hammer <eran@hammer.io> (http://hueniverse.com)",
   "repository": "git://github.com/hueniverse/postmile-web",
   "main": "index",
   "engines": {
     "node": ">=0.10.22"
   },
   "dependencies": {
-    "hoek": "1.x.x",
+    "hoek": "2.x.x",
     "boom": "2.x.x",
-    "joi": "2.x.x",
-    "yar": "1.x.x",
-    "crumb": "1.x.x",
+    "joi": "4.x.x",
+    "yar": "2.x.x",
+    "crumb": "2.x.x",
     "scooter": "1.x.x",
     "emailjs": "0.3.x",
     "jade": "0.28.x",
     "oz": "0.4.x",
     "oauth": "0.9.x",
-    "request": "2.22.x",
+    "request": "2.x.x",
     "cryptiles": "2.x.x",
     "hapi-auth-cookie": "1.x.x"
   },
   "peerDependencies": {
-    "hapi": "3.x.x"
+    "hapi": "6.x.x"
   },
   "devDependencies": {
   },
