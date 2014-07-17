@@ -20,11 +20,11 @@
     "oz": "0.4.x",
     "request": "2.x.x",
     "cryptiles": "2.x.x",
-    "hapi-auth-cookie": "1.x.x",
+    "hapi-auth-cookie": "^1.3.x",
     "bell": "1.x.x"
   },
   "peerDependencies": {
-    "hapi": "6.x.x"
+    "hapi": "^6.2.x"
   },
   "devDependencies": {
   },
